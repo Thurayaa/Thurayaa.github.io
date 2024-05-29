@@ -1,0 +1,15 @@
+{
+  "value": "tahsildar",
+  "name": "Tahsildar",
+  "description": "An app that can take your payments from your customers and eliminate your collection problems.",
+  "about": "A mobile application for requesting payments. It helps the merchant create a payment request for a specific person and send it to them, specifying if they want the payment on a specific date, with the option of setting an expiry date for the payment that the payee should abide by. The merchant can also view the details of their payments and filter to see the total of how much they have collected by month and year.",
+  "framework": "FLUTTER",
+  "numOfPhotos": 0,
+  "photosExtension": "jpg",
+  "workExperience": { "name": "Tradinos",
+    "value":"tradinos",
+    "timeline": "Jun 2021 → Apr 2023" },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": false
+}

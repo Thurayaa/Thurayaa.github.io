@@ -1,0 +1,15 @@
+{
+  "value": "patientMonitoringSystem",
+  "name": "Patients’ Monitoring System Using IOT",
+  "description": "",
+  "about": "An App with two types of users Doctors and Hospital Staff. Doctors have an access to monitor the patients they are in charge of, view their information and their vital data (Heart Rate and Temperature) Hospital staff are allowed to view the doctor’s information, patient’s information, vital data, and old records, they can also view the rooms and sections available in the hospital. The APIs are hosted on Heroku.",
+  "framework": "FLUTTER",
+  "numOfPhotos": 0,
+  "photosExtension": "jpeg",
+  "workExperience": { "name": "Academic Projects",
+    "value" :"university",
+    "timeline": "2015 → 2020" },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": false
+}

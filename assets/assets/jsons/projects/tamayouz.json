@@ -1,0 +1,13 @@
+{
+  "value": "tamayouz",
+  "name": "Tamayouz",
+  "description": "",
+  "about": "",
+  "framework": "FLUTTER",
+  "numOfPhotos": 15,
+  "photosExtension": "png",
+  "workExperience": { "name": "KernelSoft", "value":"kernelSoft", "timeline": "Mar 2021 → Jun 2021" },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": false
+}

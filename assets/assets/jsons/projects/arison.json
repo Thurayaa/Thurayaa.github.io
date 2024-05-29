@@ -1,0 +1,17 @@
+{
+  "value": "arison",
+  "name": "Arison",
+  "description": "Arison Perfumes' POS app enables efficient invoicing with a barcode scanner for price calculations and includes offline financial tracking for workers.",
+  "about": "A POS mobile app for Arison Perfumes to help their workers generate invoices. The app features a barcode scanner to determine the bottle capacity, and then user then selects the perfume to be filled, with the app calculating the price accordingly. The app also includes a section for workers to input expenses and the amount withdrawn from the cash box. The app is designed to support offline mode.",
+  "framework": "FLUTTER",
+  "numOfPhotos": 0,
+  "photosExtension": "jpg",
+  "workExperience": {
+    "name": "Startups & Freelance",
+    "value": "outsideWork",
+    "timeline": "Nov 2020 → Present"
+  },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": true
+}

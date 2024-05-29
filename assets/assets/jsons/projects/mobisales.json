@@ -1,0 +1,15 @@
+{
+  "value": "mobisales",
+  "name": "Mobisales",
+  "description": "An app for sales and delivery, offering customer location tracking, order creation, and route planning with integrated mapping. It streamlines visit scheduling and invoice generation directly from a mobile platform.",
+  "about": "Mobisales is a mobile application designed for salespeople and delivery drivers to help them manage their daily operations more efficiently. The app allows users to track their customers' locations on a map, making it easier for them to visit their customers and take their orders. One of the key features of the app is the ability to create orders for customers, with the option to select items based on availability and customer preferences. For delivery orders, users can generate invoices directly from the app. In addition, Mobisales provides users with a list of scheduled visits to their customers, which is linked to the map for added convenience. This helps users plan their routes more effectively and ensure timely deliveries.",
+  "framework": "FLUTTER",
+  "numOfPhotos": 8,
+  "photosExtension": "jpg",
+  "workExperience": { "name": "Tradinos",
+    "value":"tradinos",
+    "timeline": "Jun 2021 → Apr 2023" },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": true
+}

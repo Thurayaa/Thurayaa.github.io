@@ -1,0 +1,17 @@
+{
+  "value": "entreparents",
+  "name": "Entreparents",
+  "description": "A Made in Monaco app to connect parents to each other in a safe space built by parents for parents and their communities. We have all experienced, at some point, that by being supported and listened to, we can overcome many obstacles and find solutions to move forward. We have given birth to a new space for listening and sharing dedicated to parents and parents to be.",
+  "about": "A Made in Monaco app to connect parents to each other in a safe space built by parents for parents and their communities. We have all experienced, at some point, that by being supported and listened to, we can overcome many obstacles and find solutions to move forward. We have given birth to a new space for listening and sharing dedicated to parents and parents to be.",
+  "framework": "FLUTTER",
+  "googlePlayLink": "https://play.google.com/store/apps/details?id=com.entreparents.app",
+  "appStoreLink": "https://apps.apple.com/us/app/entreparents/id1670143590",
+  "numOfPhotos": 8,
+  "photosExtension": "jpeg",
+  "workExperience": { "name": "Tradinos",
+    "value":"tradinos",
+    "timeline": "Jun 2021 → Apr 2023" },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": true
+}

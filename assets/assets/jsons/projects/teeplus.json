@@ -1,0 +1,17 @@
+{
+  "value": "teeplus",
+  "name": "Teeplus",
+  "description": "Teeplus is an app that lets users design custom apparel and shop unique creations by independent artists, fostering a vibrant community of creators and consumers.",
+  "about": "",
+  "framework": "REACT NATIVE",
+  "googlePlayLink": "https://play.google.com/store/apps/details?id=com.teeplus&hl=en&gl=US",
+  "appStoreLink": "https://apps.apple.com/gb/app/teeplus/id1501688436",
+  "numOfPhotos": 6,
+  "photosExtension": "webp",
+  "workExperience": { "name": "Teeplus",
+    "value" :"teeplus",
+    "timeline": "Apr 2023 → Present" },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": true
+}

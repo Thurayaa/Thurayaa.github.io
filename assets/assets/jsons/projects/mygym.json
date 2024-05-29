@@ -1,0 +1,30 @@
+{
+  "value": "mygym",
+  "logo": "mygym",
+  "name": "MyGym: Player",
+  "description": "An app designed for gym-goers, facilitates check-ins with a QR scan and centralizes membership management. It offers secure, quick access and enhances gym engagement.",
+  "about": "MyGym Player mobile app is a sleek, accessible tool crafted for gym-goers, integrating seamlessly with the MyGym System for subscribers. It offers a straightforward login process for members to access personal account details, subscription statuses, and check-in histories, all managed by gym receptionists or MyGym Admin users. The app simplifies gym entry through a quick QR or barcode scan at the reception. The user is able to view Nearby gyms and find their location through the app, and see their available classes and all details about those classes(times and class price) with a modern, fast, and secure design for an optimal user experience.",
+  "framework": "FLUTTER",
+  "googlePlayLink": "https://play.google.com/store/apps/details?id=com.gymesis.player_app",
+  "appStoreLink": "https://apps.apple.com/us/app/my-gym-player/id1558730679",
+  "numOfPhotos": 0,
+  "photosExtension": "jpg",
+  "workExperience": {
+    "name": "Startups & Freelance",
+    "value": "outsideWork",
+    "timeline": "Nov 2020 → Present"
+  },
+  "appFeatures": [
+    "Choose your gym",
+    "Scan your QR Code to check in to your gym",
+    "View your memberships",
+    "View gym classes",
+    "View your check ins",
+    "View your profile",
+    "Edit profile",
+    "Change Password",
+    "Notifications"
+  ],
+  "myContribution": "",
+  "isLive": true
+}

@@ -1,0 +1,15 @@
+{
+  "value": "alqaaidahAlNooraniyah",
+  "name": "AlQaaidah ALNooraniyah",
+  "description": "Arabic letters and words teaching application.Re-creating an application that was previously made with Android Java for easily building it to both iOS and Android.",
+  "about": "Arabic letters and words teaching application.Re-creating an application that was previously made with Android Java for easily building it to both iOS and Android.",
+  "framework": "FLUTTER",
+  "numOfPhotos": 0,
+  "photosExtension": "jpeg",
+  "workExperience": { "name": "KernelSoft",
+    "value":"kernelSoft",
+    "timeline": "Mar 2021 → Jun 2021" },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": false
+}

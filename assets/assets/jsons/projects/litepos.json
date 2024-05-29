@@ -1,0 +1,15 @@
+{
+  "value": "litepos",
+  "name": "LitePos (Tablet & Mobile)",
+  "description": "A POS application tailored for tablet users, featuring an intuitive sales interface, invoice management, and robust inventory functions. It’s built with Flutter for cross-device compatibility, aiming for efficiency and ease of use in retail settings.",
+  "about": "LitePOS is a comprehensive point-of-sale app optimized for tablet devices, enabling users to manage sales with a user-friendly POS interface that showcases products in detailed categories with images, prices, and stock information. The app supports invoice customization with discounts and taxes, customer recognition, barcode scanning for item addition, and connects with Bluetooth printers for on-the-spot invoice printing. Designed for seamless operation across different screen sizes, LitePOS is developed in Flutter, ensuring a responsive experience and incorporates various accounting features like different invoice types, system reports, cash management, and inventory updates, all while maintaining a clean code structure.",
+  "framework": "FLUTTER",
+  "numOfPhotos": 0,
+  "photosExtension": "jpg",
+  "workExperience": { "name": "Tradinos",
+    "value":"tradinos",
+    "timeline": "Jun 2021 → Apr 2023" },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": true
+}

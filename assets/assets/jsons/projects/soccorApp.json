@@ -1,0 +1,17 @@
+{
+  "value": "soccorApp",
+  "name": "Soccor app",
+  "description": "",
+  "about": "",
+  "framework": "FLUTTER",
+  "numOfPhotos": 0,
+  "photosExtension": "jpeg",
+  "workExperience": {
+    "name": "Startups & Freelance",
+    "value": "outsideWork",
+    "timeline": "Nov 2020 → Present"
+  },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": false
+}

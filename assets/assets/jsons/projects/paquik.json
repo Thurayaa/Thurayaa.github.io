@@ -1,0 +1,18 @@
+{
+  "value": "paquik",
+  "logo": "paquik",
+  "name": "Paquik",
+  "description": "Paquik is an innovative app streamlining global parcel delivery by matching senders with travelers, ensuring fast, secure, and affordable shipping. It delivers both performance and reliability.",
+  "about": "Paquik revolutionizes the way we send and receive parcels by offering a secure and cost-effective app that connects senders with travelers for faster global delivery. Users easily sign up with their phone numbers to list shipments or travel plans, and the app smartly matches them for efficient parcel transit. It also features VIP shipment handling by the Paquik crew for added reliability. Leveraging cutting-edge technologies like Flutter and Firebase, and employing the MVVM architecture, the development team has crafted an app that's both scalable and user-friendly while maintaining a robust, organized codebase.",
+  "framework": "FLUTTER",
+  "googlePlayLink": "https://play.google.com/store/apps/details?id=com.tradinos.paquik",
+  "appStoreLink": "https://apps.apple.com/ae/app/paquik/id1659370211",
+  "numOfPhotos": 8,
+  "photosExtension": "jpeg",
+  "workExperience": { "name": "Tradinos",
+    "value":"tradinos",
+    "timeline": "Jun 2021 → Apr 2023" },
+  "appFeatures": [],
+  "myContribution": "",
+  "isLive": true
+}
